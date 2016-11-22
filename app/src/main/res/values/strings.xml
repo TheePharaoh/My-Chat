@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Chat</string>
+
+    <string name="sign_out">Sign Out</string>
+
+    <string name="sign_in">Sign In</string>
+
+</resources>
